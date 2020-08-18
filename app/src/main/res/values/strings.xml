@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_to_"> Welcome to Fluxstore</string>
+    <string name="lorem_ipsum">Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit</string>
+    <string name="lorconsecte">Lorconsectetur adipisicing</string>
+    <string name="skip">Skip</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
